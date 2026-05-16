@@ -135,6 +135,3 @@ Library management application developed with Symfony & Doctrine ORM.
 
 ---
 
-# ✨ Motto
-
-> “Code. Learn. Build. Repeat.”

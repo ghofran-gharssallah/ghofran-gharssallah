@@ -12,7 +12,7 @@ Passionate about building intelligent systems, scalable backend architectures an
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer
+- 💻 Junior Full Stack Developer
 - 🤖 AI & Deep Learning Enthusiast
 - 📚 IT Student
 - 🔥 Passionate about Backend Engineering & System Design
